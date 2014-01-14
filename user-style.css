@@ -1,0 +1,29 @@
+@-moz-document domain("readability.com") {
+	* {
+		color: #D4C4A9 !important;
+	}
+
+	body, .tools {
+		background: #404040 !important;
+	}
+
+	.tools {
+		border-right-style: none !important;
+	}
+
+	blockquote {
+		border-color: #505050 !important;
+	}
+
+	a {
+		color: #7F9F7F !important;
+	}
+
+	a:hover {
+		background: #505050 !important;
+	}
+
+	a:visited {
+		color: #CC9393 !important;
+	}
+}
